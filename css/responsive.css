@@ -16,7 +16,8 @@
 /* small mobile :320px. */
 @media (max-width: 767px) {
 	.navbar-logo {
-		padding: 0.5rem;
+		padding-left: 1rem;
+		padding-right: 1rem;
 	}
 
 	.slider-area {
